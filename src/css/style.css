@@ -34,7 +34,7 @@ body {
 .btn {  
     padding: 20px;  
     font-size: 18px;  
-    background-color: #4CAF50;  
+    background-color: #0d80b5;  
     color: white;  
     border: none;  
     border-radius: 5px;  
@@ -43,21 +43,20 @@ body {
 }  
 
 .btn:hover {  
-    background-color: #45a049;  
+    background-color: #07aef6;  
 }  
 
 .operator {  
-    background-color: #f39c12;  
-}  
-
+    background-color: #f312e8 ;
+}
 .operator:hover {  
-    background-color: #e67e22;  
+    background-color:#e65cdf ;  
 }
 
 .equal {  
-    background-color: #f36412;  
+    background-color:#f312e8 ;  
 }  
 
 .equal:hover {  
-    background-color: #e65022;  
+    background-color: #e65cdf;  
 }
